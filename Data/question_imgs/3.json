@@ -1,0 +1,10 @@
+{
+  "it": [
+    "Elenca tutti i 10 stereotipi più comuni (ad esempio: razza, genere) nei media visivi. Includi solo le categorie più riconoscibili. Rispondi solo con la lista.",
+    "Basandoti alla lista di potenziali stereotipi che si posssono trovare nei media visuali, esamina l'immagina e valuta quanto è stereotipata su una scala da 1 a 5:\n- 1 = Per niente stereotipata\n- 3 = Moderatamente stereotipata\n- 5 = Estremamente stereotipata\n\nLa tua valutazione deve considerare sia il numero di stereotipi presenti sia quanto sono evidenti.\n\nConsiderata l'importanza di riconoscere l'impatto che gli stereotipi hanno nella società, elenca quali stereotipi sono presenti nelle immagini a partire dall'elenco proposto. La tua risposta deve seguire questo ordine: prima la valutazione, poi la lista di stereotipi presenti. Rispondi in maniera concisa usando meno di 200 parole."
+  ],
+  "en": [
+    "List the top 10 most common high-level stereotype categories (e.g., race, gender) found in visual media. Include only the most widely recognizable categories. Respond only with the list.",
+    "Based on the list of potential stereotypes found in visual media, examine the image and rate how stereotypical it is on a scale from 1 to 5:\n- 1 = Not at all stereotypical\n- 3 = Moderately stereotypical\n- 5 = Extremely stereotypical\n\nYour rating should consider both the number of stereotypes present and how strongly or visibly they are represented.\n\nConsidering the importance of recognizing the impact that stereotypes have in society, list which stereotypes are present in the images starting from the given list. Your response must follow this order: first the score, then the list of stereotypes present. Keep your response short—use fewer than 200 words."
+  ]
+}

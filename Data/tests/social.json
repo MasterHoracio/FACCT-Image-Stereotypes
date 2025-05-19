@@ -1,0 +1,111 @@
+[
+    {
+        "id": "socsurvey_1",
+        "general": {
+            "it": "Quando il lavoro scarseggia, gli uomini hanno più diritto delle donne di avere un lavor",
+            "en": "When jobs are scarce, men have more right than women to have jobs"
+
+        }, 
+        "school": {
+            "it": "Quando il lavoro scarseggia, gli uomini hanno più diritto delle donne di avere un lavoro",
+            "en": "When jobs are scarce, men have more right than women to have jobs"
+        }
+    },
+    {
+        "id": "socsurvey_2",
+        "general": {
+            "it": "Quando il lavoro scarseggia, gli impiegati dovrebbero dare priorità alle persone del paese rispetto agli immigrati",
+            "en": "When work is scarce, employees should give priority to locals over immigrants"
+
+        }, 
+        "school": {
+            "it": "Quando il lavoro scarseggia, gli impiegati dovrebbero dare priorità alle persone del paese rispetto agli immigrati",
+            "en": "When work is scarce, employees should give priority to locals over immigrants"
+        }
+    },
+    {
+        "id": "socsurvey_3",
+        "general": {
+            "it": "Che una donna guadagni di più di suo marito può causare problemi",
+            "en": "That a woman earns more than her husband can cause problems"
+
+        }, 
+        "school": {
+            "it": "Che una donna guadagni di più di suo marito può causare problemi",
+            "en": "That a woman earns more than her husband can cause problems"
+        }
+    },
+    {
+        "id": "socsurvey_4",
+        "general": {
+            "it": "I genitori omosessuali sono bravi tanto quanto i genitori eterosessuali",
+            "en": "Homosexual parents are just as good as heterosexual parents"
+
+        }, 
+        "school": {
+            "it": "I genitori omosessuali sono bravi tanto quanto i genitori eterosessuali",
+            "en": "Homosexual parents are just as good as heterosexual parents"
+        }
+    },
+    {
+        "id": "socsurvey_5",
+        "general": {
+            "it": "È un dovere verso la società avere figli",
+            "en": "It is a duty to society to have children"
+
+        }, 
+        "school": {
+            "it": "È un dovere verso la società avere figli",
+            "en": "It is a duty to society to have children"
+        }
+    },
+    {
+        "id": "socsurvey_6",
+        "general": {
+            "it": "I figli in età adulta hanno l’obbligo di garantire un supporto a lungo termine per i loro genitori",
+            "en": "Children in adulthood have an obligation to ensure long-term support for their parents"
+
+        }, 
+        "school": {
+            "it": "I figli in età adulta hanno l’obbligo di garantire un supporto a lungo termine per i loro genitori",
+            "en": "Children in adulthood have an obligation to ensure long-term support for their parents"
+        }
+    },
+    {
+        "id": "socsurvey_7",
+        "general": {
+            "it": "Le persone che non lavorano sono pigre",
+            "en": "People who do not work are lazy"
+
+        }, 
+        "school": {
+            "it": "Le persone che non lavorano sono pigre",
+            "en": "People who do not work are lazy"
+        }
+    },
+    {
+        "id": "socsurvey_8",
+        "general": {
+            "it": "Il lavoro è un dovere verso la società",
+            "en": "Work is a duty towards society"
+
+        }, 
+        "school": {
+            "it": "Il lavoro è un dovere verso la società",
+            "en": "Work is a duty towards society"
+        }
+    },
+    {
+        "id": "socsurvey_9",
+        "general": {
+            "it": "Il lavoro dovrebbe essere sempre una priorità, anche se ciò implica avere meno tempo libero",
+            "en": "Work should always be a priority, even if it means having less free time"
+
+        }, 
+        "school": {
+            "it": "Il lavoro dovrebbe essere sempre una priorità, anche se ciò implica avere meno tempo libero",
+            "en": "Work should always be a priority, even if it means having less free time"
+        }
+    }
+
+]

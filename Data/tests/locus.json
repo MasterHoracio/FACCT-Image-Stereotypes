@@ -1,0 +1,62 @@
+[
+    {
+        "id": "locus_1",
+        "general": {
+            "it": "Confido nelle mie capacità di affrontare con successo i problemi che mi si porranno in futuro",
+            "en": "I am confident in my ability to deal successfully with the problems that will confront me in the future"
+
+        }, 
+        "school": {
+            "it": "Se mi impegno e ci dedico abbastanza tempo, riesco ad attuare una nuova strategia di insegnamento anche con studenti poco propensi a imparare cose nuovee",
+            "en": "If I put enough effort and time into it, I can implement a new teaching strategy even with students who are disinclined to learn new things"
+        }
+    },
+    {
+        "id": "locus_2",
+        "general": {
+            "it": "La gente è vittima di circostanze al di là del loro controllo",
+            "en": "People are victims of circumstances beyond their control"
+
+        }, 
+        "school": {
+            "it": "Quando uno studente ottiene un voto migliore del solito generalmente è perché ha studiato di più, non perché ho cercato di spiegare meglio la lezione",
+            "en": "When a student gets a better grade than usual generally it is because they have studied more, not because I have tried to explain the lesson better"
+        }
+    },
+    {
+        "id": "locus_3",
+        "general": {
+            "it": "Dipende da me risolvere i miei problemi ed i miei errori",
+            "en": "It is up to me to solve my problems and mistakes"
+
+        }, 
+        "school": {
+            "it": "Se un giorno mi ritrovo a rimproverare uno studente più spesso del solito, probabilmente è perché quel giorno ero un po' meno tollerante, non perché quello studente si stava comportando peggio del solito.",
+            "en": "If one day I find myself scolding a student more often than usual, it is probably because I was a little less tolerant that day, not because that student was behaving worse than usual"
+        }
+    },
+    {
+        "id": "locus_4",
+        "general": {
+            "it": "La mia vita è controllata da eventi o azioni esterne",
+            "en": "My life is controlled by external events or actions"
+
+        }, 
+        "school": {
+            "it": "Quando uno studente riesce ad imparare velocemente un nuovo concetto, probabilmente è perché lo studente è stato in grado di capirlo, non perché ho saputo spiegarlo meglio.",
+            "en": "When a student is able to learn a new concept quickly, it is probably because the student was able to understand it, not because I was able to explain it better"
+        }
+    },
+    {
+        "id": "locus_5",
+        "general": {
+            "it": "Raggiungere un successo è una questione di duro lavoro, la fortuna ha poco o nulla a che fare",
+            "en": "Achieving success is a matter of hard work; luck has little or nothing to do"
+
+        }, 
+        "school": {
+            "it": "Quando uno studente nuovo non riesce a fare amicizia con i suoi compagni di classe, probabilmente è perché non ho incoraggiato abbastanza gli altri studenti ad essere più gentili con il nuovo arrivato",
+            "en": "When a new student fails to make friends with his classmates, it is probably because I have not encouraged other students enough to be nicer to the newcomer"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": "ub_aware_1",
+        "school": {
+            "it": "Il modo in cui la didattica si configura nelle scuole può contribuire a rafforzare pregiudizi consapevoli o inconsapevoli",
+            "en": "The way teaching is shaped in schools can contribute to reinforcing conscious or unconscious biases"
+
+        }, 
+        "general": {
+            "it": "Il modo in cui la didattica si configura nelle scuole può contribuire a rafforzare pregiudizi consapevoli o inconsapevoli",
+            "en": "The way teaching is shaped in schools can contribute to reinforcing conscious or unconscious biases"
+        }
+    },
+    {
+        "id": "ub_aware_2",
+        "school": {
+            "it": "È importante affrontare il tema dei pregiudizi e delle disuguaglianze nell’attività didattica quotidiana",
+            "en": "It is important to address the issue of biases and inequalities in daily teaching activities"
+
+        }, 
+        "general": {
+            "it": "È importante affrontare il tema dei pregiudizi e delle disuguaglianze negli uffici e nelle scuole",
+            "en": "It is important to address prejudice and inequality in offices and schools"
+        }
+    },
+    {
+        "id": "ub_aware_3",
+        "school": {
+            "it": "Nella mia attività didattica quotidiana affronto spesso questioni legate a tematiche di disuguaglianza",
+            "en": "In my daily teaching activities, I often address issues related to inequality"
+
+        }, 
+        "general": {
+            "it": "Nel mio funzionamento quotidiano, mi trovo spesso ad analizzare questioni legate a tematiche di disuguaglianza",
+            "en": "In my daily functioning, I often find myself analyzing issues related to issues of inequality"
+        }
+    },
+    {
+        "id": "ub_aware_4",
+        "school": {
+            "it": "Sento di avere gli strumenti necessari per affrontare il tema dei pregiudizi e delle disuguaglianze nella mia attività di insegnante",
+            "en": "I feel that I have the necessary tools to address the issue of biases and inequalities in my teaching practice"
+
+        }, 
+        "general": {
+            "it": "Dispongo degli strumenti necessari per affrontare il tema dei pregiudizi e delle disuguaglianze nelle mie analisi e interazioni",
+            "en": "I have the necessary tools to address bias and inequality in my analyses and interactions"
+        }
+    }
+
+]

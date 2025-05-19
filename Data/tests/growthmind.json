@@ -1,0 +1,67 @@
+[
+    {
+        "id": "growthmind_1",
+        "general": {
+            "it": "Ciascuno ha un determinato livello di intelligenza e non può far molto per cambiarla",
+            "en": "Everyone has a certain level of intelligence and cannot do much to change it"
+
+        }, 
+        "school": {
+            "it": "Ciascuno ha un determinato livello di intelligenza e non può far molto per cambiarla",
+            "en": "Everyone has a certain level of intelligence and cannot do much to change it"
+        }
+    },
+
+    {
+        "id": "growthmind_2",
+        "general": {
+            "it": "Si è un certo tipo di persona e non c'è molto che si possa fare per cambiare davvero questo",
+            "en": "You are a certain kind of person and there is not much you can do to really change that"
+
+        }, 
+        "school": {
+            "it": "Mi piacciono corsi di aggiornamento difficili così posso imparare cose nuove",
+            "en": "I like challenging training courses so I can learn new things"
+        }
+    },
+    {
+        "id": "growthmind_3",
+        "general": {
+            "it": "L’intelligenza è una caratteristica personale che non si può cambiare molto",
+            "en": "Intelligence is a personal trait that cannot be changed much"
+
+        }, 
+        "school": {
+            "it": "L’intelligenza è una caratteristica personale che non si può cambiare molto",
+            "en": "Intelligence is a personal trait that cannot be changed much"
+        }
+    },
+    {
+        "id": "growthmind_4",
+        "general": {
+            "it": "Una persona può fare le cose in modo diverso, ma gli aspetti fondamentali di chi si è non possono davvero cambiare",
+            "en": "A person may do things differently, but the fundamental aspects of who they are cannot really change"
+
+        }, 
+        "school": {
+            "it": "Mi piace usare quello che apprendo nei corsi di aggiornamento nelle mie lezioni in classe",
+            "en": "I like using what I learn in training courses in my classroom lessons"
+        }
+    },
+    {
+        "id": "growthmind_5",
+        "general": {
+            "it": "Si possono imparare cose nuove, ma non cambiare la propria intelligenza",
+            "en": "You can learn new things, but you cannot change your intelligence"
+
+        }, 
+        "school": {
+            "it": "Si possono imparare cose nuove, ma non cambiare la propria intelligenza",
+            "en": "You can learn new things, but you cannot change your intelligence"
+        }
+    }
+    
+
+
+
+]

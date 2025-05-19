@@ -1,0 +1,75 @@
+[
+    {
+        "id": "genstem_1",
+        "general": {
+            "it": "Le ragazze sono naturalmente più brave degli studenti maschi nelle discipline umanistiche",
+            "en": "Girls are naturally better than male students in humanities subjects"
+
+        }, 
+        "school": {
+            "it": "Le ragazze sono naturalmente più brave degli studenti maschi nelle discipline umanistiche",
+            "en": "Girls are naturally better than male students in humanities subjects"
+        }
+    },
+    {
+        "id": "genstem_2",
+        "general": {
+            "it": "Gli studenti maschi sono naturalmente più bravi delle studentesse nelle discipline scientifico-matematiche",
+            "en": "Male students are naturally better than female students in scientific and mathematical subjects"
+
+        }, 
+        "school": {
+            "it": "Gli studenti maschi sono naturalmente più bravi delle studentesse nelle discipline scientifico-matematiche",
+            "en": "Male students are naturally better than female students in scientific and mathematical subjects"
+        }
+    },
+    {
+        "id": "genstem_3",
+        "general": {
+            "it": "La propensione alla comunicazione in lingua straniera è tipica delle ragazze",
+            "en": "Propensity for foreign language communication is typical of girls"
+
+        }, 
+        "school": {
+            "it": "La propensione alla comunicazione in lingua straniera è tipica delle ragazze",
+            "en": "Propensity for foreign language communication is typical of girls"
+        }
+    },
+    {
+        "id": "genstem_4",
+        "general": {
+            "it": "I ragazzi hanno bisogno di più tempo delle ragazze per capire concetti complessi o astratti",
+            "en": "Boys need more time than girls to understand complex or abstract concepts"
+
+        }, 
+        "school": {
+            "it": "I ragazzi hanno bisogno di più tempo delle ragazze per capire concetti complessi o astratti",
+            "en": "Boys need more time than girls to understand complex or abstract concepts"
+        }
+    },
+    {
+        "id": "genstem_5",
+        "general": {
+            "it": "E necessario fare di più per avvicinare le studentesse all’ambito delle discipline STEM",
+            "en": "More needs to be done to encourage female students to engage in STEM disciplines"
+
+        }, 
+        "school": {
+            "it": "E necessario fare di più per avvicinare le studentesse all’ambito delle discipline STEM",
+            "en": "More needs to be done to encourage female students to engage in STEM disciplines"
+        }
+    },
+    {
+        "id": "genstem_6",
+        "general": {
+            "it": "Gli studenti maschi sono più indisciplinati delle studentesse",
+            "en": "Male students are more undisciplined than female students"
+
+        }, 
+        "school": {
+            "it": "Gli studenti maschi sono più indisciplinati delle studentesse",
+            "en": "Male students are more undisciplined than female students"
+        }
+    }
+
+]
