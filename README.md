@@ -1,1 +1,1 @@
-# EMNLP-Image-Stereotypes
+# FACCT-Image-Stereotypes
